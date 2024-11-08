@@ -1,4 +1,4 @@
-##Script para criação de usuários no temina Linux.
+## Script para criação de usuários no temina Linux.
 
 Este projeto foi desenvolvido exlcusivamente para fins didáticos.
 
@@ -12,9 +12,10 @@ Para isto foi utlizado a criação de diretórios para grupos:
 
   Tecnologias utilizadas:
 
-Apenas foi utilizado o sistema Nano para escrever este script em um teminal bash.
+Nano - Editor de texto para terminal bash.
+bash - Sistema de terminal linux aonde os textos foram editados.
 
-##Escala de operação:
+## Escala de operação:
 
 Todas as operação acontecerção seguindo estes passos um a um.
 
