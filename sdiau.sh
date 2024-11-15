@@ -40,7 +40,7 @@ chmod 770 /adm
 chmod 770 /sec
 chmod 770 /mod
 
-echo * Finalizando entregaveeis ... *
+echo * Finalizando entregaveeis ! *
 
 
  
