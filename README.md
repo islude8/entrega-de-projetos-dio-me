@@ -4,15 +4,15 @@ Este projeto foi desenvolvido exlcusivamente para fins didáticos.
 
 O script começa com a criaçã a criação de diretórios na pasta home para grupos:
 
-  /adm
-  /ven
-  /sec
+  /adm <br>
+  /ven <br>
+  /sec <br>
 
   Ambos os diretórios possuem a função ROOT para usuários.
 
  ### Tecnologias utilizadas:
 
-Nano - Editor de texto para terminal bash.
+Nano - Editor de texto para terminal bash. <br>
 bash - Sistema de terminal linux aonde os textos foram editados.
 
 ### Escala de operação:
